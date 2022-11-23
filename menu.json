@@ -14,9 +14,9 @@
   {"name" :  "Kape at Pandesal with fried egg (scrambled or sunny-side up)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Kape at Pandesal with butter", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Kape at Pandesal with palaman (peanut butter, cheeze, liverspread, condensed milk)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Kape at sinangag (fried rice) with fried egg (scrambled or sunny-side up) at tuyo (fried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Champorado with evaporated milk on top", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Champorado with tuyo (fried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Kape at sinangag (fried rice) with fried egg at tuyo (dried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Champorado with milk on top", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Champorado with tuyo (dried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Arroz caldo", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Arroz caldo at tinapay", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Gatas at prutas (mansanas, saging)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -25,7 +25,7 @@
   {"name" :  "Oatmeal", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Cereal", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "description" :  "", "link" :  ""},
   {"name" :  "Pancake/hotcake", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  // Lunch or Dinner
+  // Vegetables Lunch or Dinner
   {"name" :  "Tortang talong", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
   {"name" :  "Chopseuy", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
   {"name" :  "Dinengdeng", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
@@ -35,6 +35,8 @@
   {"name" :  "Ginisang amplaya", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
   {"name" :  "Ginisang patola", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
   {"name" :  "Adobong sitaw", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
+  {"name" :  "Ginataang kalabasa at sitaw", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
+  // Lunch or Dinnner
   {"name" :  "Pork Humba", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Afritada", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Adobo", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -67,6 +69,7 @@
   {"name" :  "Igado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Lumpiang shanghai", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Buttered shrimp", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Sardinas with sotanghon and egg", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Merienda snacks
   {"name" :  "Pansit bihon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit canton", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
