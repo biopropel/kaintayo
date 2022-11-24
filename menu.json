@@ -70,6 +70,20 @@
   {"name" :  "Lumpiang shanghai", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Buttered shrimp", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Sardinas with sotanghon and egg", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Lechon Baboy", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Lechon Baka", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Chicken inasal", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Liyempo", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Lechon kawali", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Embutido", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Morcon", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork BBQ", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Chicken BBQ", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Sizling pork sisiq", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Sizling tofu", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pininyahang manok", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Estofado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Samgyupsal", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Merienda snacks
   {"name" :  "Pansit bihon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit canton", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -79,5 +93,7 @@
   {"name" :  "Turon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Banana-que", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Ice cream", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Pizza", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""}
+  {"name" :  "Pizza", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pansit at dinuguan", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Lumpiang sariwa/gulay", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""}
 ]
