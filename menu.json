@@ -11,9 +11,9 @@
   {"name" :  "Cornsilog (Corned beef, Sinangag, Itlog)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Bangsilog (Fried bangus, Sinangag, Itlog)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Kape at Pandesal", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Kape at Pandesal with fried egg (scrambled or sunny-side up)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Kape at Pandesal with fried egg", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Kape at Pandesal with butter", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Kape at Pandesal with palaman (peanut butter, cheeze, liverspread, condensed milk)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Kape at Pandesal with cheeze", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Kape at sinangag (fried rice) with fried egg at tuyo (dried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Champorado with milk on top", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Champorado with tuyo (dried fish)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -55,7 +55,7 @@
   {"name" :  "Fish Steak", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Relyenong bangus", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Daing na bangus", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
-  {"name" :  "Pritong isda (fried galunggong, tulingan, tambakol, tilapya, atbp)", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pritong isda (galunggong, tulingan, tilapya)", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Ginataang isda (tilapya, tulingan)", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Sarsyadong isda", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Sinigang na isda", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -84,6 +84,7 @@
   {"name" :  "Pininyahang manok", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Estofado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Samgyupsal", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Bistek", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Merienda snacks
   {"name" :  "Pansit bihon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit canton", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -95,5 +96,6 @@
   {"name" :  "Ice cream", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pizza", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit at dinuguan", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Puto at dinuguan", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Lumpiang sariwa/gulay", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""}
 ]
