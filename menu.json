@@ -25,6 +25,7 @@
   {"name" :  "Oatmeal", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Cereal", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "description" :  "", "link" :  ""},
   {"name" :  "Pancake/hotcake", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Sopas", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Vegetables Lunch or Dinner
   {"name" :  "Tortang talong", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
   {"name" :  "Chopseuy", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "true", "description" :  "", "link" :  ""},
@@ -85,6 +86,9 @@
   {"name" :  "Pork Estofado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Samgyupsal", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Bistek", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Porkchop", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Binagoongan", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Hamonado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Merienda snacks
   {"name" :  "Pansit bihon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit canton", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
