@@ -1,3 +1,4 @@
+
 [
   // Breakfast
   {"name" :  "Tapsilog (Tapa, Sinangag, Itlog)", "breakfast" :  "true", "lunch" :  "false", "dinner" :  "false", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
@@ -89,6 +90,10 @@
   {"name" :  "Porkchop", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Binagoongan", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Hamonado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Paksiw na pata", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pochero", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Pork Mechado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Sinaing na isda", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   // Merienda snacks
   {"name" :  "Pansit bihon", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pansit canton", "breakfast" :  "false", "lunch" :  "false", "dinner" :  "false", "snacks" :  "true", "vegetable" : "false", "description" :  "", "link" :  ""},
