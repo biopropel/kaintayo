@@ -46,6 +46,8 @@
   {"name" :  "Pork Steak", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Menudo", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Pork Asado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Chicken Asado", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
+  {"name" :  "Ginataang Manok with Papaya", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Giniling na baboy", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Chicken Afritada", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
   {"name" :  "Chicken Adobo", "breakfast" :  "false", "lunch" :  "true", "dinner" :  "true", "snacks" :  "false", "vegetable" : "false", "description" :  "", "link" :  ""},
